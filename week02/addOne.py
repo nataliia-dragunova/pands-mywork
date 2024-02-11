@@ -3,5 +3,5 @@
 # author: Nataliia Dragunova
 
 number = int (input("please enter a number:"))
-newNumber = number + 1
-print (f"{number} plus one is {newNumber}");
+new_number = number + 1
+print (f"{number} plus one is {new_number}");
